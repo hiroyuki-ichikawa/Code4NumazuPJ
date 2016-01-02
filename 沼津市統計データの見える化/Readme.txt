@@ -1,4 +1,4 @@
-﻿[沼津市の統計サイトより、町別　世帯人口一覧よりデジタルデータ作成]
+[沼津市の統計サイトより、町別　世帯人口一覧よりデジタルデータ作成]
 http://www.city.numazu.shizuoka.jp/shisei/profile/tokei/jinkou/choubetu/index.htm
 
 [対応期間]
@@ -18,6 +18,11 @@ http://www.city.numazu.shizuoka.jp/shisei/profile/tokei/jinkou/choubetu/index.ht
 　・平成20年　下河原町のデータがカンマではなくピリオドになっているため不正。
 
 　　＊こういうデータがデジタル化する際にノイズとなって悪さをするデータです。
+
+[可視化の例]
+　可視化の例としてKintoneを利用したグラフ化を置いておきます。
+　第一、第二、靜浦地区の人口変動の可視化例。
+　　・グラフサンプル.png
 
 
 作成日：2016/1/1
